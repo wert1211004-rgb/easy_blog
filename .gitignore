@@ -1,0 +1,14 @@
+# 인증/토큰/키 (절대 커밋하면 안 됨)
+.streamlit/secrets.toml
+.env
+
+# 이미지 처리 결과물
+output_images/
+
+# 파이썬 캐시
+__pycache__/
+*.pyc
+
+# 가상환경
+venv/
+.venv/
